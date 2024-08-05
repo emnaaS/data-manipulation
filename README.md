@@ -9,6 +9,28 @@ This project involves the following steps:
 2. **Data Cleaning:** Various techniques are applied to clean the data, including handling missing values, removing duplicates, and identifying outliers.
 3. **Data Manipulation:** Additional data transformations and feature engineering are performed.
 
+## Installation
+To run the project, you need to install the following Python libraries:
+ ```bash
+   pip install pandas faker
+   ```
+
+## Usage
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/emnaaS/data-manipulation.git
+   cd data-manipulation
+   ```
+
+2. **Open the notebook in Google Colab:**
+
+   ```bash
+   https://colab.research.google.com/github/emnaaS/data-manipulation/blob/main/data_cleaning.ipynb
+   ```
+3. Run the notebook cells to see the data generation, cleaning, and manipulation steps in action.
+
 ## Data Description
 
 - **Name:** Full name of the employee
